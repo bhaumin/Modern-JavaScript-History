@@ -1,0 +1,22 @@
+{
+  "name": "modern-javascript-history",
+  "version": "1.0.0",
+  "description": "Modern JavaScript Explained For Dinosaurs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaumin/Modern-JavaScript-History.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhaumin/Modern-JavaScript-History/issues"
+  },
+  "homepage": "https://github.com/bhaumin/Modern-JavaScript-History#readme",
+  "dependencies": {
+    "moment": "^2.19.1"
+  }
+}
