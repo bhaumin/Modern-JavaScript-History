@@ -1,8 +1,8 @@
 import moment from 'moment';
 
 console.log("Hello from JavaScript!");
-console.log(moment().startOf("day").fromNow());
+console.log(moment().startOf("week").fromNow());
 
-var name = "Bob", time = "today";
+var name = "Betty", time = "today";
 console.log(`Hello ${name}, how are you ${time}?`);
 
