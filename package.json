@@ -20,13 +20,13 @@
   },
   "homepage": "https://github.com/bhaumin/Modern-JavaScript-History#readme",
   "dependencies": {
-    "moment": "^2.19.1"
+    "moment": "^2.21.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
+    "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.6.1",
-    "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.3"
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.2"
   }
 }
