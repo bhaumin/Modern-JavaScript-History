@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/bhaumin/Modern-JavaScript-History#readme",
   "dependencies": {
-    "moment": "^2.27.0"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
